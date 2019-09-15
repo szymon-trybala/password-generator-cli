@@ -1,5 +1,5 @@
 [package]
-name = "password-generator-cli"
+name = "pswd"
 version = "0.1.0"
 authors = ["karmeleonik <szymon.trybala@protonmail.com>"]
 edition = "2018"
